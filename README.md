@@ -5,4 +5,4 @@
 ## 1 - Vetores, arrays e listas;
 ## 2 - Pilhas;
 ## 3 - Filas.
-## Também foi apresentado como criar e utilizões de cada estrutura na prática.
+## Também foram apresentados como criar e utilizações de cada estrutura na prática.
